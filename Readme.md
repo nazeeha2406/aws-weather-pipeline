@@ -176,6 +176,11 @@ python fetch_weather.py
 
 ---
 
+## Architecture
+![Pipeline Architecture](architecture.png)
+
+---
+
 ## Author
 
 **Nazee**
